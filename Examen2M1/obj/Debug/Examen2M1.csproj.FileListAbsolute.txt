@@ -1,0 +1,12 @@
+C:\Users\Sistemas-13\source\repos\Examen2M1\Examen2M1\bin\Debug\Examen2M1.exe.config
+C:\Users\Sistemas-13\source\repos\Examen2M1\Examen2M1\bin\Debug\Examen2M1.exe
+C:\Users\Sistemas-13\source\repos\Examen2M1\Examen2M1\bin\Debug\Examen2M1.pdb
+C:\Users\Sistemas-13\source\repos\Examen2M1\Examen2M1\obj\Debug\Examen2M1.csprojAssemblyReference.cache
+C:\Users\Sistemas-13\source\repos\Examen2M1\Examen2M1\obj\Debug\Examen2M1.FrmPrestamos.resources
+C:\Users\Sistemas-13\source\repos\Examen2M1\Examen2M1\obj\Debug\Examen2M1.MDIPrestamos.resources
+C:\Users\Sistemas-13\source\repos\Examen2M1\Examen2M1\obj\Debug\Examen2M1.Properties.Resources.resources
+C:\Users\Sistemas-13\source\repos\Examen2M1\Examen2M1\obj\Debug\Examen2M1.VentanaPrestamo.resources
+C:\Users\Sistemas-13\source\repos\Examen2M1\Examen2M1\obj\Debug\Examen2M1.csproj.GenerateResource.cache
+C:\Users\Sistemas-13\source\repos\Examen2M1\Examen2M1\obj\Debug\Examen2M1.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-13\source\repos\Examen2M1\Examen2M1\obj\Debug\Examen2M1.exe
+C:\Users\Sistemas-13\source\repos\Examen2M1\Examen2M1\obj\Debug\Examen2M1.pdb
